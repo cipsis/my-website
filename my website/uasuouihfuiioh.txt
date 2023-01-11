@@ -1,0 +1,40 @@
+html = <img src="profil.jpeg" alt="">
+
+table {
+    color: aliceblue;
+    border-style: inset;
+    border-color: gainsboro;
+    border: 3px solid ghostwhite;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+th, td {
+    color: aliceblue;
+    border-style: inset;
+    border-color: gainsboro;
+    border: 3px solid ghostwhite;
+    border-radius: 10px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size:xx-large;
+    text-align: center;
+}
+
+table>
+            <tr>
+              <th>Company</th>
+              <th>Contact</th>
+              <th>Country</th>
+            </tr>
+            <tr>
+              <td>Alfreds Futterkiste</td>
+              <td>Maria Anders</td>
+              <td>Germany</td>
+            </tr>
+            <tr>
+              <td>Centro comercial Moctezuma</td>
+              <td>Francisco Chang</td>
+              <td>Mexico</td>
+            </tr>
+          </table> 
